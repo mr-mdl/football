@@ -1,1 +1,3 @@
 Datei 1
+stash Beispiel Aenderung
+Änderung 2 von Stash
